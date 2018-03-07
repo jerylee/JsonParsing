@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
     private ListView lv;
 
     // URL to get contacts JSON
-    private static String url = "http://api.androidhive.info/contacts/";
+    private static String url = "https://api.androidhive.info/contacts/";
 
     ArrayList<HashMap<String, String>> contactList;
 
